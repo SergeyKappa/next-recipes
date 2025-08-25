@@ -3,7 +3,7 @@
 import React, { useState } from 'react'
 import { Form, Input, Button } from '@heroui/react'
 import { registerUser } from '@/actions/register'
-import { log } from 'console'
+
 
 
 interface IProps {

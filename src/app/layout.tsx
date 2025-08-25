@@ -7,7 +7,6 @@ import { siteConfig } from '@/config/site.config'
 import { layoutConfig } from '@/config/layout.config'
 import { SessionProvider } from 'next-auth/react'
 import { auth } from '@/auth/auth'
-import App from 'next/app'
 import AppLoader from '@/hoc/app-loader'
 import Title from '@/components/UI/layout/title'
 
